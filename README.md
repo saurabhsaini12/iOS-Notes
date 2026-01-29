@@ -1,2 +1,2 @@
 # iOS-Notes
-My undesratnding about the subject
+My understanding about the subject
